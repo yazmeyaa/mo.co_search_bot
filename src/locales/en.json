@@ -1,0 +1,5 @@
+{
+    "startCmd": "Welcome to the publishing bot for the %s channel. Using this bot, you can leave an advertisement looking for partners to play mo.co, which will be posted in our channel.",
+    "createPost": "Create post",
+	"sendMessageAsTemplate": "Please send a message according to the template:"
+}

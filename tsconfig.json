@@ -32,6 +32,9 @@
       "@modules/*": [
         "./modules/*"
       ],
+      "@commands/*": [
+        "./commands/*"
+      ],
     },
     "skipLibCheck": true
   },
